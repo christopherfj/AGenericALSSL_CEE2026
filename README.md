@@ -2,4 +2,7 @@
 
 by Christopher A. Flores, and Rodrigo Verschae
 
-Submitted to *<a href="https://www.sciencedirect.com/journal/applied-soft-computing" target="_blank">Applied Soft Computing</a>*, 2025
+Submitted to *<a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering" target="_blank">Computers and Electrical Engineering</a>*, 2026
+
+
+
