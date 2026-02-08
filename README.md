@@ -1,4 +1,4 @@
-## A Generic Framework Based on Active and Semi-Supervised Learning for Text Classification Tasks
+## An Uncertainty-Based Framework for Text Classification Using Active and Semi-Supervised Learning
 
 by Christopher A. Flores, and Rodrigo Verschae
 
